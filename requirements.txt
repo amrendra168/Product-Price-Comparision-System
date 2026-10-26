@@ -1,0 +1,2 @@
+# Optional dependency for price charts
+matplotlib>=3.8

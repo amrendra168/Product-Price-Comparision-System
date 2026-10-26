@@ -1,0 +1,9 @@
+name,store,price,category,url
+Wireless Mouse,Store A,499,Electronics,https://example.com/mouse-a
+Wireless Mouse,Store B,549,Electronics,https://example.com/mouse-b
+Wireless Mouse,Store C,399,Electronics,https://example.com/mouse-c
+Keyboard,Store A,799,Electronics,https://example.com/keyboard-a
+Keyboard,Store B,699,Electronics,https://example.com/keyboard-b
+Headphones,Store C,999,Electronics,https://example.com/headphones-c
+Notebook,Store A,60,Stationery,https://example.com/notebook-a
+Notebook,Store B,55,Stationery,https://example.com/notebook-b
