@@ -49,6 +49,5 @@ Then select the chart option in the program.
 - `products.csv`: sample product data
 - `tests/test_comparison.py`: basic automated tests
 - `project_report.md`: project report draft
-- `viva_questions.md`: viva questions and answers
 
 The SQLite database (`prices.db`) is created automatically when you save data to it.
